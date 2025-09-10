@@ -1,2 +1,16 @@
-# Data-Science-Portfolio
-Selected projects in Machine Learning, NLP, and Analytics.
+# 📂 Sara Welter – Data Science Portfolio
+
+Welcome to my portfolio!  
+Here I share selected projects that showcase my skills in **Python, SQL, Machine Learning, NLP, and Analytics**.  
+
+## 🚀 Projects
+
+- [Fake News Detector](#) → Classification of website credibility using Random Forest & XGBoost  
+- [Storybook AI](#) → NLP & image analysis app generating personalized stories  
+- [Recruiting Funnel Analytics](#) → SQL + dashboards analyzing candidate conversion  
+
+---
+
+## 🛠️ Tech Stack
+Python (Pandas, Scikit-learn, TensorFlow, PyTorch) · SQL · Streamlit · Git · Azure (basic) · Agile/Scrum
+
