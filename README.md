@@ -6,7 +6,7 @@ Here I share selected projects that showcase my skills in **Python, SQL, Machine
 ## 🚀 Projects
 
 - [Fake News Detector](https://github.com/saraa-03/Credibility-Detector) → Classification of website credibility using Random Forest & XGBoost  
-- [Storybook AI](https://github.com/saraa-03/Storybook-AI) → NLP & image analysis app generating personalized stories  
+- [Storybook AI](https://github.com/onurcsk/storybook) → NLP & image analysis app generating personalized stories  
 - [Recruiting Funnel Analytics](#) → SQL + dashboards analyzing candidate conversion  
 
 ---
